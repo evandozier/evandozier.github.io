@@ -15,6 +15,9 @@ avatar: https://raw.githubusercontent.com/evandozier/evandozier.github.io/images
 # Flags below are optional
 #
 
+# Google Analytics
+google_analytics: G-K4GJTZJ2B8
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
