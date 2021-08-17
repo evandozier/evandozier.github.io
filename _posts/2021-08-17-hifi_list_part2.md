@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evan's Hifi Gear
+title: Evan's Hifi Gear - Part 2
 ---
 New Additions as of 8/17
 
