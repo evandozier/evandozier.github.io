@@ -10,9 +10,13 @@ I got this 2385 in a trade. It was in rough shape and not functional
 
 ## Testing:
 Amp Only on Left, Preamp+Amp on Right
+
 ### Max Power
+Left Channel
 ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Max Power.png) ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Max Power.png)
 
+Right Channel
+![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Max Power.png) ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Max Power.png)
 
 
 
