@@ -19,6 +19,11 @@ Here are a couple of pics after cleaning it up before restoration:
 ## Testing:
 Since the Marantz 2385 has pre-out and amp-in connections, I tested the amp separate from the preamp+amp to compare the performance of the amp separate from the preamp
 
+| Simple | Table |
+| ---- | ---- |
+| Is | Simple | 
+| Ya | Know |
+{: .tablelines}
 ### Max Power
 | Left Channel | Right Channel |
 | ---- | ---- |
