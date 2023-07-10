@@ -3,8 +3,12 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     {% if site.google_analytics and jekyll.environment == 'production' %}
-    {% include analytics.html %}
+      {% include analytics.html %}
     {% endif %}
+    {% if site.tags != "" %}
+      {% include collecttags.html %}
+    {% endif %}
+
     {% include meta.html %}
 
     <!--[if lt IE 9]>
