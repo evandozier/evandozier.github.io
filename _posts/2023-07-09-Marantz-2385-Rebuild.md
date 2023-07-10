@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Rebuilding and Testing a Marantz 2385
+tags: hifi_test
 ---
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
 
 I got this 2385 in a trade. It was in rough shape and not functional. The specific-to-this-model volume knob and shaft was missing as were many of the screws holding it together
 
