@@ -20,6 +20,12 @@ Here are a couple of pics after cleaning it up before restoration:
 Since the Marantz 2385 has pre-out and amp-in connections, I tested the amp separate from the preamp+amp to compare the performance of the amp separate from the preamp
 
 ### Max Power
+- Left Channel - Right Channel
+    - Amp Only 
+        - ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Max Power.png) - ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Max Power.png)
+    - Amp and Preamp 
+        - ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Max Power.png) - ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Max Power.png)
+
 | Left Channel | Right Channel |
 | ---- | ---- |
 | Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Max Power.png){:/} | Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Max Power.png){:/} |
