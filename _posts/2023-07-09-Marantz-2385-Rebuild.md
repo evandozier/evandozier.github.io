@@ -17,7 +17,7 @@ Here are a couple of pics after cleaning it up before restoration:
 ![]({{ site.baseurl }}/images/hifi/original/amp-2385-4.jpg)
 
 ## Testing:
-Since the Marantz 2385 has pre-out and amp-in connections, I tested the amp separate from the preamp+amp to compare the performance of the amp separate from the preamp
+Since the Marantz 2385 has pre-out and amp-in connections, I tested the amp separate from the preamp+amp to compare the performance of the amp versus the preamp
 
 ### Max Power
 
@@ -25,7 +25,7 @@ Since the Marantz 2385 has pre-out and amp-in connections, I tested the amp sepa
 | -- | -- |
 | Amp Only - Left | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Max Power.png) |
 | Amp Only - Right  | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Max Power.png) |
-| Amp and Preamp - Right | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Max Power.png) |
+| Amp and Preamp - Left | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Max Power.png) |
 | Amp and Preamp - Right | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Max Power.png) |
 
 | Left Channel | Right Channel |
@@ -34,6 +34,11 @@ Since the Marantz 2385 has pre-out and amp-in connections, I tested the amp sepa
 | Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Max Power.png) | Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Max Power.png) |
 
 ### Amplitude Swept THD
+
+| Amp Only - Left | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Amplitude Swept THD.png) |
+| Amp Only - Right  | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Amplitude Swept THD.png) |
+| Amp and Preamp - Left | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Amplitude Swept THD.png) |
+| Amp and Preamp - Right | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Amplitude Swept THD.png) |
 
 | Left Channel | Right Channel |
 | ---- | ---- |
