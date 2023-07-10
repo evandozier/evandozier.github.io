@@ -25,59 +25,50 @@ Since the Marantz 2385 has pre-out and amp-in connections, I tested the amp sepa
 | Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Max Power.png) | Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Max Power.png) |
 | Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Max Power.png) | Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Max Power.png) |
 
-
 ### Amplitude Swept THD
 | Left Channel | Right Channel |
 | ---- | ---- |
-| Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Amplitude Swept THD.png){:/} | Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Amplitude Swept THD.png){:/} |
-| Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Amplitude Swept THD.png){:/} | Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Amplitude Swept THD.png){:/} |
-
+| Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Amplitude Swept THD.png) | Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Amplitude Swept THD.png) |
+| Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Amplitude Swept THD.png) | Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Amplitude Swept THD.png) |
 
 ### Averaged Frequency Response
 | Left Channel | Right Channel |
 | ---- | ---- |
-| Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Averaged Frequency Response.png){:/} | Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Averaged Frequency Response.png){:/} |
-| Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Averaged Frequency Response.png){:/} | Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Averaged Frequency Response.png){:/} |
-{: .tablelines}
+| Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Averaged Frequency Response.png) | Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Averaged Frequency Response.png) |
+| Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Averaged Frequency Response.png) | Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Averaged Frequency Response.png) |
 
 ### Continuous Frequency Sweep
 | Left Channel | Right Channel |
 | ---- | ---- |
-| Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Continuous Frequency Sweep.png){:/} | Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Continuous Frequency Sweep.png){:/} |
-| Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Continuous Frequency Sweep.png){:/} | Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Continuous Frequency Sweep.png){:/} |
-{: .tablelines}
+| Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Continuous Frequency Sweep.png) | Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Continuous Frequency Sweep.png) |
+| Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Continuous Frequency Sweep.png) | Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Continuous Frequency Sweep.png) |
 
 ### Discrete Frequency Sweep
 | Left Channel | Right Channel |
 | ---- | ---- |
-| Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Discrete Frequency Sweep.png){:/} | Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Discrete Frequency Sweep.png){:/} |
-| Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Discrete Frequency Sweep.png){:/} | Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Discrete Frequency Sweep.png){:/} |
-{: .tablelines}
+| Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Discrete Frequency Sweep.png) | Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Discrete Frequency Sweep.png) |
+| Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Discrete Frequency Sweep.png) | Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Discrete Frequency Sweep.png) |
 
 ### One Shot IMD
 | Left Channel | Right Channel |
 | ---- | ---- |
-| Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-One Shot IMD.png){:/} | Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-One Shot IMD.png){:/} |
-| Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-One Shot IMD.png){:/} | Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-One Shot IMD.png){:/} |
-{: .tablelines}
+| Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-One Shot IMD.png) | Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-One Shot IMD.png) |
+| Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-One Shot IMD.png) | Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-One Shot IMD.png) |
 
 ### One Shot Phase, Gain, Distortion
 | Left Channel | Right Channel |
 | ---- | ---- |
-| Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-One Shot Phase, Gain, Distortion.png){:/} | Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-One Shot Phase, Gain, Distortion.png){:/} |
-| Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-One Shot Phase, Gain, Distortion.png){:/} | Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-One Shot Phase, Gain, Distortion.png){:/} |
-{: .tablelines}
+| Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-One Shot Phase, Gain, Distortion.png) | Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-One Shot Phase, Gain, Distortion.png) |
+| Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-One Shot Phase, Gain, Distortion.png) | Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-One Shot Phase, Gain, Distortion.png) |
 
 ### One Shot Metrics
 | Left Channel | Right Channel |
 | ---- | ---- |
-| Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-One Shot Metrics.png){:/} | Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-One Shot Metrics.png){:/} |
-| Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-One Shot Metrics.png){:/} | Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-One Shot Metrics.png){:/} |
-{: .tablelines}
+| Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-One Shot Metrics.png) | Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-One Shot Metrics.png) |
+| Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-One Shot Metrics.png) | Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-One Shot Metrics.png) |
 
 ### Settled Dynamic Range
 | Left Channel | Right Channel |
 | ---- | ---- |
-| Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Settled Dynamic Range.png){:/} | Amp Only {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Settled Dynamic Range.png){:/} |
-| Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Settled Dynamic Range.png){:/} | Amp+Preamp {::nomarkdown}![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Settled Dynamic Range.png){:/} |
-{: .tablelines}
+| Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Settled Dynamic Range.png) | Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Settled Dynamic Range.png) |
+| Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Settled Dynamic Range.png) | Amp and Preamp ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Settled Dynamic Range.png) |
