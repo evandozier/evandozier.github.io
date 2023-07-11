@@ -39,13 +39,6 @@ Since the Marantz 2385 has pre-out and amp-in connections, I tested the amp sepa
 Factory Specs:
 - Rated Power for 8 ohm load: 185 wpc across 20-20k Hz @ 0.05% THD
 
-| Channel | Result |
-| -- | -- |
-| Amp Only - Left | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Max Power.png) |
-| Amp Only - Right  | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Max Power.png) |
-| Amp and Preamp - Left | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Max Power.png) |
-| Amp and Preamp - Right | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Max Power.png) |
-
 | Left Channel | Right Channel |
 | ---- | ---- |
 | Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Max Power.png) | Amp Only ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Max Power.png) |
@@ -54,11 +47,6 @@ Factory Specs:
 ### Amplitude Swept THD
 Factory Specs:
 - 0.05% THD or -66 dB
-
-| Amp Only - Left | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Left-Amplitude Swept THD.png) |
-| Amp Only - Right  | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385_AmpOnly/09072023-1429-Right-Amplitude Swept THD.png) |
-| Amp and Preamp - Left | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Left-Amplitude Swept THD.png) |
-| Amp and Preamp - Right | ![]({{ site.baseurl }}/images/tests/marantz2385/Marantz_2385/09072023-1447-Right-Amplitude Swept THD.png) |
 
 | Left Channel | Right Channel |
 | ---- | ---- |
